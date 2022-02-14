@@ -1,0 +1,1 @@
+Count of word in both files: 13
